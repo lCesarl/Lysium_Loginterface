@@ -1,0 +1,8 @@
+LOGIN_INTERFACE_NOSAVED_ACC	In diesem Slot ist kein Account gespeichert!
+LOGIN_INTERFACE_FREE_SPACE	Freier Speicherplatz
+LOGIN_INTERFACE_PASTE_ID	Bitte gib eine ID ein!
+LOGIN_INTERFACE_PASTE_PW	Bitte gib ein PW ein!
+LOGIN_INTERFACE_NO_SLOT_FREE	Es ist kein Slot zum speichern frei!
+LOGIN_INTERFACE_SAVED	Deine Login-Daten wurden gespeichert!
+LOGIN_INTERFACE_DELETED	gelöscht.
+LOGIN_INTERFACE_ALREADY_EMPTY	ist bereits leer!
